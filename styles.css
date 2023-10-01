@@ -2,7 +2,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: cursive;
+  font-family: sans-serif;
 }
 body {
   width: 100%;
@@ -22,7 +22,7 @@ body {
 }
 h1 {
   text-align: center;
-  font-weigth: 800;
+  font-weight: 800;
   background-color: rgba(121, 194, 103, 0.952);
   border-radius: 40% 5%;
 }
