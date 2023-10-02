@@ -40,7 +40,7 @@ function App() {
       <li
         key={index}
         style={{ textDecoration: state[index] ? "line-through" : "none" }}
-        onDoubleClick={toggleDecoration}
+        onClick={toggleDecoration}
       >
         {task}
       </li>
